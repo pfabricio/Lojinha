@@ -2,43 +2,55 @@
   {
     "nome": "iPhone 13",
     "preco": "4200",
-    "urlImagem": "https://images.unsplash.com/photo-1630089657541-4f3cfa4f57c0?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1011/400/300",
     "destaque": true
   },
   {
     "nome": "Galaxy S21",
     "preco": "2500",
-    "urlImagem": "https://images.unsplash.com/photo-1617108384024-6b165c8c3f0b?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1015/400/300",
     "destaque": true
   },
   {
     "nome": "Redmi Note 9",
     "preco": "1000",
-    "urlImagem": "https://images.unsplash.com/photo-1603898037225-5f71e2f86d1e?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1019/400/300",
     "destaque": true
   },
   {
     "nome": "iPhone XR",
     "preco": "2800",
-    "urlImagem": "https://images.unsplash.com/photo-1570310470974-d5f0bdf7b8a7?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1020/400/300",
     "destaque": false
   },
   {
     "nome": "Motorola G9",
     "preco": "1200",
-    "urlImagem": "https://images.unsplash.com/photo-1590502593745-97a67d5e850b?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1025/400/300",
     "destaque": false
   },
   {
     "nome": "Huawei P30",
     "preco": "950",
-    "urlImagem": "https://images.unsplash.com/photo-1587825140408-0d92d76b7a9c?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1035/400/300",
     "destaque": false
   },
   {
     "nome": "OnePlus 9",
     "preco": "3100",
-    "urlImagem": "https://images.unsplash.com/photo-1611341922127-b6b408ea912f?auto=format&fit=crop&w=800&q=80",
+    "urlImagem": "https://picsum.photos/id/1039/400/300",
+    "destaque": false
+  },
+  {
+    "nome": "Pixel 6",
+    "preco": "3300",
+    "urlImagem": "https://picsum.photos/id/1043/400/300",
+    "destaque": false
+  },
+  {
+    "nome": "Samsung A52",
+    "preco": "1500",
+    "urlImagem": "https://picsum.photos/id/1045/400/300",
     "destaque": false
   }
 ]
