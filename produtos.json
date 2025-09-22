@@ -1,37 +1,37 @@
 [
   {
     "nome": "iPhone 13",
-    "preco": "4200",
+    "preco": "4.200,00",
     "urlImagem": "https://picsum.photos/id/1011/400/300",
     "destaque": true
   },
   {
     "nome": "Galaxy S21",
-    "preco": "2500",
+    "preco": "2.500,00",
     "urlImagem": "https://picsum.photos/id/1015/400/300",
     "destaque": true
   },
   {
     "nome": "Redmi Note 9",
-    "preco": "1000",
+    "preco": "1.000,00",
     "urlImagem": "https://picsum.photos/id/1019/400/300",
     "destaque": true
   },
   {
     "nome": "iPhone XR",
-    "preco": "2800",
+    "preco": "2.800,00",
     "urlImagem": "https://picsum.photos/id/1020/400/300",
     "destaque": false
   },
   {
     "nome": "Motorola G9",
-    "preco": "1200",
+    "preco": "1.200,00",
     "urlImagem": "https://picsum.photos/id/1025/400/300",
     "destaque": false
   },
   {
     "nome": "Huawei P30",
-    "preco": "950",
+    "preco": "950,00",
     "urlImagem": "https://picsum.photos/id/1035/400/300",
     "destaque": false
   },
@@ -43,13 +43,13 @@
   },
   {
     "nome": "Pixel 6",
-    "preco": "3300",
+    "preco": "3.300,00",
     "urlImagem": "https://picsum.photos/id/1043/400/300",
     "destaque": false
   },
   {
     "nome": "Samsung A52",
-    "preco": "1500",
+    "preco": "1.500,00",
     "urlImagem": "https://picsum.photos/id/1045/400/300",
     "destaque": false
   }
